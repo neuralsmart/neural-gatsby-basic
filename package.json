@@ -1,13 +1,12 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-neural-basic",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby and TailwindCSS",
-  "version": "0.3.0",
-  "author": "Kostas Vrouvas <hello@kosvrouvas.com>",
+  "description": "Neural Smart Tech Basic Gatsby + Tailwind Stack",
+  "version": "1.0.0",
+  "author": "Neural Smart Tech <brad@neuralsmart.ca>",
   "dependencies": {
     "autoprefixer": "^10.4.0",
     "gatsby": "^4.0.2",
-    "gatsby-plugin-google-analytics": "^4.0.0",
     "gatsby-plugin-image": "^2.0.0",
     "gatsby-plugin-manifest": "^4.0.0",
     "gatsby-plugin-offline": "^5.0.0",
@@ -18,7 +17,6 @@
     "gatsby-source-filesystem": "^4.0.0",
     "gatsby-transformer-sharp": "^4.0.0",
     "postcss": "^8.3.11",
-    "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0"
@@ -42,9 +40,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kosvrouvas/gatsby-tailwindcss-starter"
+    "url": "https://github.com/neuralsmart/gatsby-neural-basicr"
   },
   "bugs": {
-    "url": "https://github.com/kosvrouvas/gatsby-tailwindcss-starter/issues"
+    "url": "https://github.com/neuralsmart/gatsby-neural-basic/issues"
   }
 }
